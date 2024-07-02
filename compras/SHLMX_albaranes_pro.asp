@@ -6,6 +6,7 @@
 ''MPC 26/12/2007 se añade el paso de los parñmetros modd, modp y modi a las pñginas de los detalles.
 ' FLM : 19/01/2009 : Añadir captura de nproveedor por request
 ' jcg 20/01/2009: Añadida la columna proyecto al proveedor y tratamiento de la misma.  CE 
+' Test push gitlab o github - btorreme 02/07/2024
 
 %>
 <!DOCTYPE html PUBLIC "-//W3C/DTD/ XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml1-transitional.dtd" />
